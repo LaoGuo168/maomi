@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rb.ios.signBYCP</string>
+				<string>com.rb.ios.signYLB</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>猫咪段子</string>
+				<string>猫咪段子测试</string>
 			</dict>
 		</dict>
 	</array>
